@@ -1,0 +1,7 @@
+{
+    "plugins": [
+        "local-plantuml@git+https://github.com/170/gitbook-plugin-local-plantuml.git#fix_html_character_entities",
+        "-sharing",
+        "hide-published-with"
+    ]
+}
